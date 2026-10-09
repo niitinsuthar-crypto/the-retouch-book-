@@ -1,0 +1,8 @@
+{
+  "name": "Dilip Kumar Retouching",
+  "description": "High-end photo editing and retouching services for brands, photographers and agencies worldwide. Perfection in every pixel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
